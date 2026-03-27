@@ -31,7 +31,7 @@ class Xhinsuid:
 
 ```yaml
 Development:
-  Editor: 
+    Editor: 
     mobile: ["Acode", "Mt manager"]
     terminal: ["Termux", "Linux Userland"]
   
