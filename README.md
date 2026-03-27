@@ -19,7 +19,8 @@ class Xhinsuid:
 ---
 
 ### 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhinsuud)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhinsuid)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 </div>
 
