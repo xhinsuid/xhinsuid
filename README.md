@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3AAFA9,100:2E7D32&height=200&section=header&text=Xhinsu&fontSize=80&fontAlignY=40&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3AAFA9,100:2E7D32&height=200&section=header&text=xhinsuid&fontSize=80&fontAlignY=40&animation=fadeIn)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Security+Researcher;Python+Programer)](https://git.io/typing-svg)
 </div>
 
@@ -19,9 +19,9 @@ class Xhinsuid:
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Xhinsuid&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Xhinsuid&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xhinsuid&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=xhinsuid&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=xhinsuid&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xhinsuid&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=Xhinsuid&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
@@ -42,7 +42,7 @@ System:
   environment: ["Kali Linux", "Debian"]
 ```
 
-<img src="https://raw.githubusercontent.com/Xhinsu404/Xhinsuid/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/xhinsuid/xhinsuid/output/snake.svg" alt="Snake animation" />
 
 ## 🛠️ Tech Arsenal
 <div align="center">
