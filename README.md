@@ -19,7 +19,8 @@ class Xhinsuid:
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://streak-stats.demolab.com?user=xhinsuid&theme=gotham&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=xhinsuid&theme=gotham&hide_border=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usernameAnda&show_icons=true&title_color=E63946&text_color=1E6091&icon_color=E9C46A&bg_color=FFFFFF&hide_border=true&border_radius=15)
 
 ---
 </div>
