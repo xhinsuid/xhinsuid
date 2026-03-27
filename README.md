@@ -20,7 +20,7 @@ class Xhinsuid:
 
 ### 📊 GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/xhinsuid?cardType=github&theme=vue-dark&fontFamily=&preferLogin=true&Background=DD272700)](https://git.io/awesome-stats-card)<br/>
-![GitHub Stats](https://streak-stats.demolab.com?user=xhinsuid&theme=vue-dark&Background=DD272700)<br/>
+![GitHub Stats](https://streak-stats.demolab.com?user=xhinsuid?cardType=guthub&theme=vue-dark&Background=DD272700)<br/>
 
 ---
 </div>
