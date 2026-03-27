@@ -19,7 +19,7 @@ class Xhinsuid:
 ---
 
 ### 📊 GitHub Stats:
-
+![GitHub Stats](https://streak-stats.demolab.com?user=xhinsuid&theme=gotham&hide_border=true)
 
 ---
 </div>
