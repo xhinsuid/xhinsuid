@@ -20,6 +20,7 @@ class Xhinsuid:
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=xhinsuid&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=aura)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=xhinsuid&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xhinsuid&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=Xhinsuid&icon=0&color=0)](https://visitcount.itsvg.in)
