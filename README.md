@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3AAFA9,100:2E7D32&height=200&section=header&text=xhinsuid&fontSize=80&fontAlignY=40&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3AAFA9,100:2E7D32&height=200&section=header&text=Xhinsu&fontSize=80&fontAlignY=40&animation=fadeIn)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Security+Researcher;Python+Programer)](https://git.io/typing-svg)
 </div>
 
