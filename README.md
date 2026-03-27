@@ -20,7 +20,7 @@ class Xhinsuid:
 
 ### 📊 GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/xhinsuid?cardType=github&theme=vue-dark&fontFamily=Roboto%20Slab&preferLogin=true&Background=141B23)](https://git.io/awesome-stats-card)<br/>
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xhinsuid&layout=donut&theme=vue-dark&bg_color=141B23)](https://github.com/xhinsuid/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xhinsuid&layout=donut&theme=vue-dark&fontFamily=Roboto%20Slab&bg_color=141B23)](https://github.com/xhinsuid/github-readme-stats)<br/>
 ![GitHub Stats](https://streak-stats.demolab.com?user=xhinsuid&theme=vue-dark&fontFamily=Roboto%20Slab&hide_border=white&background=141B23)
 
 ---
